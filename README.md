@@ -16,7 +16,7 @@ This full-stack project was created using MERN stack techniques learned over the
 
 - [GitHub](https://github.com/stardust-4/)
 - [LinkedIn](https://www.linkedin.com/in/john-boyle-dev/)
-
+- [Trello](https://trello.com/b/1P1LOR6z/bjj-moves-tracker)
 ## Built With
 
 - HTML
@@ -32,7 +32,7 @@ This full-stack project was created using MERN stack techniques learned over the
 - Insomnia
 - Zoom
 - Slack
-  = VS Code
+= VS Code
 - Terminal
 - Mac OS
 
