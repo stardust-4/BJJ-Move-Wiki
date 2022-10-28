@@ -44,7 +44,6 @@ This project was deployed using Heroku
 
 ## Acknowledgments
 
-- Tip o' the hat to Billy Thompson for helping with the README template
 - This project was inspired by the PokemonGo wikis that I once oft referenced
 - This could not have been possible without the support of my classmates and instructors at GA
 
